@@ -3,7 +3,7 @@ import Home from './components/shared/Home';
 import About from './components/shared/About';
 import Nomatch from './components/shared/Nomatch';
 import Lists from './components/lists/Lists';
-import MainNavbar from './components/shared';
+import MainNavbar from './components/shared/MainNavbar';
 
 const App = () => (
   <>
